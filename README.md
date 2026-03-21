@@ -10,10 +10,10 @@ height="auto" alt="meow">
 
 " _You know, you can be honest with yourself. When you’re sad, you can be sad… You can be honest with yourself._ "
 
-$\color{#E3B898}{\textsf{i'm open to c+h . int freely with me :3}}$
+$\color{#E3B898}{\textsf{i'm open to c+h . int freely with me }}$
 
 
-[![Visit](https://img.shields.io/badge/-carrd.co-beige?style=flat-plastic)](https://corgiez.carrd.co)
+[![Visit](https://img.shields.io/badge/-card-beige?style=flat-plastic)](https://corgiez.carrd.co) [![Visit](https://img.shields.io/badge/-int-beige?style=flat-plastic)](https://rentry.co/corgiez)  [![Visit](https://img.shields.io/badge/-guns-beige?style=flat-plastic)](https://guns.lol/corgiez) 
 
 
 
