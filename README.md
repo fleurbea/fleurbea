@@ -2,14 +2,16 @@
 
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=corgiez&label=angels%20&color=B4C3E0&style=square)
+![Profile views](https://komarev.com/ghpvc/?username=corgiez&label=snowdrops%20&color=B4C3E0&style=square)
 
 <sub>Known for remaking my github profile A LOT .. but hey, I'm still corgiez </sub>
 
-<img src="https://github.com/user-attachments/assets/97f2cb8f-024c-4fbc-9fcc-e63a29690e0d" width="600">
+<img src="https://github.com/user-attachments/assets/bae97b3d-0ff1-4928-849a-eecfd6f83fec" width="450">
 
+⸜(｡˃ ᵕ ˂)⸝♡
 
-![lovely](https://64.media.tumblr.com/d4c692f937c81062bc823b2aa5825d76/39223ee0f863547b-b4/s1280x1920/e3cae630d42ae57b40434f1ff9425ed52854a62d.pnj)
+<img src="https://64.media.tumblr.com/b22d977724ba25c5e33e35f8a76ade1b/57163b76850fbc95-df/s1280x1920/483965920c1708e75cf12e329573e0cebe0a518f.pnj" width="450">
+
 
 $\color{#F2F7FB}{\textsf{open }}\color{#DCEAF6}{\textsf{to }}\color{#C3DAEE}{\textsf{c+h }}\color{#A9C9E5}{\textsf{. int }}\color{#8FB8DB}{\textsf{freely }}\color{#75A7D1}{\textsf{with }}\color{#5B95C7}{\textsf{me}}$
 
@@ -18,7 +20,7 @@ $\color{#F2F7FB}{\textsf{open }}\color{#DCEAF6}{\textsf{to }}\color{#C3DAEE}{\te
 
 
 <img src="https://64.media.tumblr.com/66871165180b90fb3e079bd9c5f48df3/efa59677884e5c34-03/s100x200/c770238f3e8a4ad2c130823b56d815d430379699.pnj" width="77">
-<img src="https://64.media.tumblr.com/54874986067d8e8e8e650b9fcad4b27d/efa59677884e5c34-60/s100x200/aaa67d9ec326326b268d7a461c6b0804ea4f2f6d.gifv" width="77">
+<img src="https://64.media.tumblr.com/3eb31d6aa1fc9f756ef666be2d875c60/8e768faae6e164f8-71/s100x200/ec6aef38232f5288f03fdf13cdc577042f2fde2e.gifv" width="77">
 <img src="https://64.media.tumblr.com/293b001115140c761d9bec6cfe95b95c/8b7c01b0a3108e42-16/s100x200/8b25a1f52437e662bc1b36ac148cfb97deec2ac2.pnj" width="77">
 
 ---
