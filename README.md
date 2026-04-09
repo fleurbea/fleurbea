@@ -25,4 +25,4 @@ $\color{#F2F7FB}{\textsf{open }}\color{#DCEAF6}{\textsf{to }}\color{#C3DAEE}{\te
 
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fjxxeuyl2fhkgy5lrbidri26fa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=false&bar_color=67c360)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fjxxeuyl2fhkgy5lrbidri26fa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=false&bar_color=BDDAF2)](https://github.com/kittinan/spotify-github-profile)
